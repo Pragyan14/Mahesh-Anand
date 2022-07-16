@@ -1,0 +1,38 @@
+#title{
+  background-color:  #171a29;
+  color: white;
+}
+#menu{
+  margin-top: 2%;
+}
+p{
+  color: black;
+
+}
+h1{
+  font-family: 'Varela Round', sans-serif;
+}
+.title-star{
+  color: #8f8f8f;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+.title-box{
+  padding:  2% 0;
+}
+.price{
+    font-family: 'Kanit', sans-serif;
+    /* font-weight: bold; */
+}
+.dish-name{
+  /* font-weight: bold; */
+  font-size: 1.1rem;
+}
+.menu-box{
+  padding: 2% 0;
+}
+
+img{
+  width: 45%;
+  float: right;
+}
