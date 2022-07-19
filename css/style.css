@@ -205,6 +205,9 @@ p {
   p {
     font-size: 150%;
   }
+  .review-text{
+    font-size: 130%;
+  }
   .navbar-brand{
     font-size: 200%;
   }
