@@ -162,11 +162,12 @@ height:500px; width:500px; border-radius:100%;
 
 /* mediaqury */
 
-@media (max-width:1028px) {
+@media (max-width:992px) {
   .feature-card{
     border: none;
   }
-  .big-heading{
+    .body{
       font-size: 600%;
     }
+
 }
