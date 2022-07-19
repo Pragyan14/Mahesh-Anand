@@ -199,7 +199,9 @@ p {
   h3 {
     font-size: 270%;
   }
-
+  h6{
+    font-size: 150%;
+  }
   p {
     font-size: 150%;
   }
